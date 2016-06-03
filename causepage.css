@@ -1,0 +1,40 @@
+
+.title {
+	text-align: center;
+
+}
+
+.title:hover {
+	opacity: .5;
+}
+
+
+
+.youtube {
+	padding-left: 200px;
+}
+
+.words {
+	text-align: center;
+	font-family: 'Trocchi', serif;
+	color: #6699ff;
+	font-size: 18px;
+}
+.xiti{
+	padding-left: 30px;
+}
+
+.stepit{
+	padding-left: 30px;
+}
+
+.blue {
+	padding-left: 30px;
+}
+
+.shift{
+	margin-left: 70px;
+}
+
+
+
